@@ -118,6 +118,3 @@ This project is licensed under the **MIT License** – free to use & modify.
 
 ---
 
-## 👨‍💻 Author
-**Sahil Shamnani**  
-Digital Humanities & Cultural Studies | Capstone Project 2025
