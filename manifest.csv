@@ -1,0 +1,5 @@
+flight_number,passenger_id,first_name,last_name,seat_number,class
+AI101,1,Aarav,Sharma,12A,ECONOMY
+AI101,2,Diya,Mehta,12B,ECONOMY
+AI303,3,Kabir,Singh,3A,BUSINESS
+AI404,4,Fatima,Khan,20C,ECONOMY

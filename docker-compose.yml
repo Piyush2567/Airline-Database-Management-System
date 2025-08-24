@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15
+    container_name: airline_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: airline_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./schema_postgres.sql:/docker-entrypoint-initdb.d/1-schema.sql
+      - ./sample_data.sql:/docker-entrypoint-initdb.d/2-sample-data.sql
+      - ./procedures_postgres.sql:/docker-entrypoint-initdb.d/3-procedures.sql
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "8080:8080"

@@ -1,5 +1,17 @@
 # Airline Database Management System ✈️
 
+
+<p align="center">
+  <img src="assets/hero.png" alt="Airline DBMS Hero" width="80%">
+</p>
+
+## 🖼 Visuals
+- **Revenue by Flight**  
+  <img src="reports/revenue_chart.png" alt="Revenue Chart" width="70%">
+- **Flight Manifest (Sample)**  
+  <img src="reports/manifest_table.png" alt="Manifest Table" width="70%">
+
+
 ## 📌 Overview
 This project is a **Capstone Project (April 2025 - May 2025)** focused on designing a **centralized relational database system** for airline operations.  
 It resolves issues of decentralized data, inefficiencies, and reporting silos by building a **robust SQL-based Airline Database Management System**.
@@ -106,6 +118,6 @@ This project is licensed under the **MIT License** – free to use & modify.
 
 ---
 
-
+## 👨‍💻 Author
+**Sahil Shamnani**  
 Digital Humanities & Cultural Studies | Capstone Project 2025
-
