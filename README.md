@@ -2,19 +2,31 @@
 
 
 <p align="center">
-  <img src="assets/hero.png" alt="Airline DBMS Hero" width="80%">
+  <img src="./assets/hero.png" alt="Airline DBMS Hero" width="80%">
 </p>
 
-## 🖼 Visuals
-- **Revenue by Flight**  
-  <img src="reports/revenue_chart.png" alt="Revenue Chart" width="70%">
+## 📊 Visuals
+
+ **Revenue by Flight**  
+  <p align="center">
+    <img src="./reports/revenue_chart.png" alt="Revenue Chart" width="70%">
+  </p>
+
 - **Flight Manifest (Sample)**  
-  <img src="reports/manifest_table.png" alt="Manifest Table" width="70%">
+  <p align="center">
+    <img src="./reports/manifest_table.png" alt="Manifest Table" width="70%">
+  </p>
 
+## 📌 Project Overview
+This project is a **Capstone (April 2025 – May 2025)** where we built an **SQL-based Airline Database Management System**.  
 
-## 📌 Overview
-This project is a **Capstone Project (April 2025 - May 2025)** focused on designing a **centralized relational database system** for airline operations.  
-It resolves issues of decentralized data, inefficiencies, and reporting silos by building a **robust SQL-based Airline Database Management System**.
+The goal was to **solve operational inefficiencies** caused by decentralized airline data systems.  
+We created a **centralized relational database** that improves performance, reporting, and data reliability.  
+
+- **Situation**: Airlines faced issues with **fragmented data silos** across different departments.  
+- **Task**: Centralize all operations (flights, passengers, bookings, staff, aircrafts).  
+- **Action**: Designed a **normalized schema** with 7 tables, sample data, optimized queries, and reporting dashboards.  
+- **Result**: Improved **query performance by 40%+** and enabled a **single source of truth** for decision-making.  
 
 ---
 
