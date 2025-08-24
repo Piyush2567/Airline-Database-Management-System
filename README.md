@@ -1,21 +1,14 @@
 # Airline Database Management System ✈️
 
 
-<p align="center">
-  <img src="./assets/hero.png" alt="Airline DBMS Hero" width="80%">
-</p>
+## 📊 Visuals  
 
-## 📊 Visuals
+### Revenue by Flight  
+![Revenue Chart](./revenue_chart.png)
 
- **Revenue by Flight**  
-  <p align="center">
-    <img src="./reports/revenue_chart.png" alt="Revenue Chart" width="70%">
-  </p>
+### Flight Manifest (Sample)  
+![Manifest Table](./manifest_table.png)
 
-- **Flight Manifest (Sample)**  
-  <p align="center">
-    <img src="./reports/manifest_table.png" alt="Manifest Table" width="70%">
-  </p>
 
 ## 📌 Project Overview
 This project is a **Capstone (April 2025 – May 2025)** where we built an **SQL-based Airline Database Management System**.  
